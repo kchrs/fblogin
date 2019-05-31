@@ -1,0 +1,72 @@
+{
+  "_from": "cordova-plugin-facebook5",
+  "_id": "cordova-plugin-facebook5@1.9.1",
+  "_inBundle": false,
+  "_integrity": "sha1-Rgyjj8LsbB7DbbeFLD0bkpjQE4E=",
+  "_location": "/cordova-plugin-facebook5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-facebook5",
+    "name": "cordova-plugin-facebook5",
+    "escapedName": "cordova-plugin-facebook5",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-facebook5/-/cordova-plugin-facebook5-1.9.1.tgz",
+  "_shasum": "460ca38fc2ec6c1ec36db7852c3d1b9298d01381",
+  "_spec": "cordova-plugin-facebook5",
+  "_where": "/Users/kchristopoulos/cordova/socApp",
+  "author": {
+    "name": "Le Nguyen Trang"
+  },
+  "bugs": {
+    "url": "https://github.com/lenguyentrang/cordova-plugin-facebook5/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-facebook5",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Cordova Facebook SDK 4 Plugin",
+  "devDependencies": {},
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "homepage": "https://github.com/lenguyentrang/cordova-plugin-facebook5#readme",
+  "keywords": [
+    "cordova",
+    "facebook",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "facebook-sdk",
+    "social",
+    "sharing"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "cordova-plugin-facebook5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenguyentrang/cordova-plugin-facebook5.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.9.1"
+}

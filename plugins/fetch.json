@@ -1,0 +1,21 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-facebook5": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-facebook5"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID": "2245960595451376",
+      "APP_NAME": "socApp"
+    }
+  }
+}
